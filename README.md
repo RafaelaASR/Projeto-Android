@@ -1,1 +1,1 @@
-<img src="frame.png" alt="Texto Alternativo">
+<img src="C:\Users\gilbe\Downloads\frame.png" alt="QR-CODE">
