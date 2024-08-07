@@ -1,0 +1,21 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.externo::after{
+    content: '\00A0\1F517';
+}
+
+:root{
+    --cor0: #ffffff;
+    --cor1: #5fb99b;
+    --cor2: #447e6a;
+    --cor3: #2d5548;
+    --cor4: #1d352d;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Bebas Neue', sans-serif;
+    --fonte-android: 'Android', sans-serif;
+}

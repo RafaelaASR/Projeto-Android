@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+footer{
+    height: 17px;
+    background-color: #236852;
+    padding: 12px;
+    text-align: center;
+    color: #fff;
+    font-size: 11px;
+}
+
+footer a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: 700;
+    font-size: 13px;
+}
+
+footer a:hover{
+    background-color: var(--cor1);
+    color: var(--cor4);
+}
