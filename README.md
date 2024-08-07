@@ -1,1 +1,1 @@
-<img src="frame.png" alt="QR-CODE">
+<img src="imagens/frame.png" alt="QR-CODE">
