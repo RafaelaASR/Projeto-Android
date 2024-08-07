@@ -1,1 +1,1 @@
-<img src = "frame.png">
+<img src="frame.png" alt="Texto Alternativo">
